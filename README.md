@@ -87,7 +87,7 @@ Perplexica CLI provides command-line interfaces for interacting with the Perplex
    perplexica-search -l
    ```
 
-3. **Perform a Simple Search**
+3. **Perform a Simple Search with Sources**
 
    ```bash
    perplexica-simple -p "What is the capital of France?" -s
