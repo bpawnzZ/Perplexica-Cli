@@ -1,0 +1,7 @@
+.aider*
+.env
+build/
+__pycache__/
+*.egg-info/
+*.pyc
+perplexica_cli/perplexica_search.py.bak
