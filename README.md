@@ -32,6 +32,17 @@ Perplexica CLI provides command-line interfaces for interacting with the Perplex
 
 ### Commands
 
+- **Simple Search**
+
+  ```bash
+  perplexica-simple -p "your search prompt"
+  ```
+
+  **Options:**
+  - `-p, --prompt`: The search prompt (required).
+  - `-s, --sources`: Show sources.
+  - `-t, --timeout`: Timeout in seconds (default: 30).
+
 - **Search**
 
   ```bash
@@ -47,7 +58,7 @@ Perplexica CLI provides command-line interfaces for interacting with the Perplex
   - `--chat-model`: Chat model name.
   - `--embedding-provider`: Embedding model provider.
   - `--embedding-model`: Embedding model name.
-  - `-l, --list-models`: List available models and exit.
+  - `-l, --list-models`: List available models and exit exit.
 
 - **Simple Search**
 
