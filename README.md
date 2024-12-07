@@ -68,7 +68,7 @@ Perplexica CLI provides command-line interfaces for interacting with the Perplex
 1. **Perform a Search**
 
    ```bash
-   perplexica-search -p "What is the capital of France?"
+   perplexica-search -p "What is the capital of France?" -f webSearch -o speed
    ```
 
 2. **List Available Models**
