@@ -48,7 +48,7 @@ Perplexica CLI provides command-line interfaces for interacting with the Perplex
 - **Search**
 
   ```bash
-  perplexica-search -p "your search prompt"
+  perplexica-search -p "your search prompt" -f webSearch -o speed
   ```
 
   **Options:**
