@@ -1,7 +1,7 @@
 # Perplexica CLI
 
 ## Note
-You will need to modify the `perplexica_simple.py` and `perplexica_search.py` files with values that match your setup. Once you do that, install the package as described below.
+## You will need to modify the `perplexica_simple.py` and `perplexica_search.py` files with values that match your setup. Once you do that, install the package as described below.
 
 ## Description
 
