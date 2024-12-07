@@ -16,7 +16,7 @@ Perplexica CLI provides command-line interfaces for interacting with the Perplex
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/Perplexica-Cli.git
+   git clone https://github.com/bpawnzZ/Perplexica-Cli.git
    cd Perplexica-Cli
    ```
 
