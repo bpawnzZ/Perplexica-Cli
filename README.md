@@ -1,5 +1,7 @@
 # Perplexica CLI
 
+## Note: You will need to modify the perplexica_simple.py and perplexica_search.py with values that match your setup.  Once you do that install as described below
+
 ## Description
 
 Perplexica CLI provides command-line interfaces for interacting with the Perplexica Search API. It allows you to perform searches, list available models, and more.
