@@ -54,8 +54,8 @@ def search(
         "chatModel": {
             "provider": "custom_openai",
             "model": "qwen/qwen-2.5-72b-instruct",
-            "customOpenAIKey": "sk-FiIu6b1Hyq7TDX-C9phogQ",
-            "customOpenAIBaseURL": "https://litellm.2damoon.xyz"
+            "customOpenAIKey": "your_api_key",
+            "customOpenAIBaseURL": "http://your-custom-endpoint.com"
         },
         "embeddingModel": {
             "provider": "openai",
